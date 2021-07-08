@@ -3,6 +3,6 @@ Hyperaction is a cryptocurrency with a goal to create an application that allows
 
 website created by: https://github.com/isamalf
 
-View website: hyperaction.org
+View website: https://hyperaction.org
 
 (If website is not avalibale use this Github page link: https://isamalf.github.io/hyperaction-website/)
